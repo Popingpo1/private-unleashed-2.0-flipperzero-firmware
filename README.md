@@ -220,7 +220,7 @@ https://youtu.be/cXxfYd92_Co?si=Tu-ZKQmLVCKWHZN0
 
 Many of you are asking about the password and truth be told too many people will misuse this for nefarious purposes regardless of any warnings against it. If you are a developer or wish to tinker around with your own equipment you can get in touch and we can discuss and I may just grant you access.
 
-Official dev site https://flipper-grabber.dev (not afflication to flipperc0d3r) here you can find a paid licensed version should you choose the blue pill
+Official dev site https://flipper-grabber.dev (no afflication to flipperc0d3r) here you can find a paid license version should you choose the blue pill
 
 Session 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
 
