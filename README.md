@@ -226,7 +226,6 @@ all details shown: key, fix, hop, etc.). Then I can calculate all data for Sub-G
 
 ![004](https://github.com/user-attachments/assets/33157035-f175-4992-8efb-c6d3dfbfe2bc)
 
-
 https://youtu.be/cXxfYd92_Co?si=Tu-ZKQmLVCKWHZN0
 
 Many of you are asking about the password and truth be told too many people will misuse this for nefarious purposes regardless of any warnings against it. If you are a developer or wish to tinker around with your own equipment you can get in touch and we can discuss and I may just grant you access.
@@ -235,10 +234,11 @@ Official dev site https://flipper-grabber.dev (no affliation to flipperc0d3r) he
 
 ![matrix](https://github.com/user-attachments/assets/0f6e332d-ca0e-455a-b776-77add66408a4)
 
+Email: flipperc0d34@firemail.cc
 
-Session 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
+Session: 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
 
-Jabber l0m1s@xmpp.jp
+Jabber: l0m1s@xmpp.jp
 
 Feel free to donate to the cause
 
